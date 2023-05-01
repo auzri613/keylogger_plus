@@ -12,5 +12,7 @@ In the main directory:
 3) "crypt.key" is the key used to encrypt/decrypt the log files and screenshots. 
 4) "decrypter.pyw" is the script needed to decrypt the log files and screenshots. 
 5) "key_generator.pyw" just creates a new key stored in "crypt.key". You may change it before running the program and after running decrypter.pyw, but don't change it in the middle! 
+6) "requirements.txt" is a list of the pip modules I had to install.
+7) "resources.md" is a list of websites that I used to learn a lot of things to make this tool possible. Take a look!
 
 This program is created for educational purposes only!
