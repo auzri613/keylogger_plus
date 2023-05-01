@@ -1,5 +1,0 @@
-Four modules must be installed with PIP:
-1) pynput
-2) requests
-3) pillow (PIL)
-4) cryptography
